@@ -1,4 +1,4 @@
-Not: Bu döküman Gemini 2.0 Flash kullanılarak oluşturulmuş ve insan (öğrenci) tarafından revize edilmiştir.
+Not: Bu döküman Gemini 2.5 Flash kullanılarak oluşturulmuş ve insan (öğrenci) tarafından revize edilmiştir.
 
 1- Kullanıcı olarak, sisteme güvenli bir şekilde giriş yapabilmeliyim, böylece sadece kendi görevlerimi görebilirim. (Gereksinim: Özel görev alanı)
 
