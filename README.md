@@ -10,7 +10,7 @@ Bu proje, klasik görev yönetim sistemlerini **Üretken Yapay Zeka (Generative 
 
 ## 🌟 Öne Çıkan Özellikler
 
-- **AI Risk Analizi:** Google Gemini 1.5 Flash modeli, görevlerinizi analiz eder ve "Bu yetişmez!" dediği görevleri kırmızı alarm ile bildirir.
+- **AI Risk Analizi:** Google Gemini 2.5 Flash modeli, görevlerinizi analiz eder ve "Bu yetişmez!" dediği görevleri kırmızı alarm ile bildirir.
 - **Akıllı Planlama:** "Hangi işten başlasam?" derdine son. Sistem, deadline ve iş yüküne göre size en mantıklı sırayı önerir.
 - **Modern UI:** React ve Tailwind CSS ile geliştirilmiş, mobil uyumlu (Responsive) ve şık arayüz.
 - **Güvenli Mimari:** API anahtarları sunucu tarafında (Node.js) saklanır, istemciye ifşa edilmez.
@@ -24,7 +24,7 @@ Bu proje, klasik görev yönetim sistemlerini **Üretken Yapay Zeka (Generative 
 | **Frontend** | React, Vite, Tailwind CSS | Hızlı ve modern arayüz tasarımı. |
 | **Backend** | Node.js, Express | API Proxy ve AI mantık katmanı. |
 | **Veritabanı** | Supabase (PostgreSQL) | İlişkisel veri saklama. |
-| **AI Model** | Google Gemini 1.5 Flash | Risk analizi ve karar destek motoru. |
+| **AI Model** | Google Gemini 2.5 Flash | Risk analizi ve karar destek motoru. |
 | **Test** | Jest, Supertest | API doğrulama ve uç durum testleri. |
 
 ---
